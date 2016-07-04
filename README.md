@@ -1,7 +1,11 @@
-# salary-prediction
+![Word Art](./word_art_example.jpg)
+
+
+salary-prediction
+====================
 
 Kaggle entry for job salary prediction https://www.kaggle.com/c/job-salary-prediction
----
+
 
 ## Dependencies
 
