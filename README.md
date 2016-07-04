@@ -1,4 +1,4 @@
-![Word Art](./word_art_example.jpg)
+![Word Art](./word_cloud_example.jpg)
 
 
 salary-prediction
