@@ -13,4 +13,4 @@ Script will use `scikit-learn`, `numpy` and `seaborn` to plot results.
 
 ## Acknowledgements
 
-Code for fitting has been based @benhamner's code [code](https://github.com/benhamner/JobSalaryPrediction/tree/RandomForestBenchmark)
+Code for fitting has been based @benhamner 's [code](https://github.com/benhamner/JobSalaryPrediction/tree/RandomForestBenchmark)
